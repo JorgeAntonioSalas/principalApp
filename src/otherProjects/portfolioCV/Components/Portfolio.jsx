@@ -464,17 +464,19 @@ const Portfolio = () => {
                   <img src={images.p2} alt="" />
                   <div className="overlay">
                     <h3>RickandMortyAPP</h3>
-                    <p>Manejo de APIs/Inputos controlados/props</p>
+                    <p>HTML - JavaScript - CSS - React - Axios - Props</p>
                   </div>
                 </div>
               </Link>
-              <div className="project">
-                <img src={images.p3} alt="" />
-                <div className="overlay">
-                  <h3>Diseño Creativo</h3>
-                  <p>Fotografía</p>
+              <Link to="https://ecommerce-app-by-jorgesalas.netlify.app/#/">
+                <div className="project">
+                  <img src={images.p3} alt="" />
+                  <div className="overlay">
+                    <h3>EcommerceApp</h3>
+                    <p>Html - JavaScript - CSS - React - Vite - Axios - Redux </p>
+                  </div>
                 </div>
-              </div>
+              </Link>
               <div className="project">
                 <img src={images.p4} alt="" />
                 <div className="overlay">
