@@ -455,7 +455,7 @@ const Portfolio = () => {
                   <img src={images.p1} alt="" />
                   <div className="overlay">
                     <h3>WeatherApp</h3>
-                    <p>Uso de APIs</p>
+                    <p>HTML - JavaScript - CSS - React - Axios</p>
                   </div>
                 </div>
               </Link>
@@ -468,22 +468,24 @@ const Portfolio = () => {
                   </div>
                 </div>
               </Link>
+              <Link to="https://pokedexapp-by-jorgesalas.netlify.app/#/">
+                <div className="project">
+                  <img src={images.p4} alt="" />
+                  <div className="overlay">
+                    <h3>PokedexApp</h3>
+                    <p>Html - JavaScript - CSS - React - Vite - Axios - Redux</p>
+                  </div>
+                </div>
+              </Link>
               <Link to="https://ecommerce-app-by-jorgesalas.netlify.app/#/">
                 <div className="project">
                   <img src={images.p3} alt="" />
                   <div className="overlay">
                     <h3>EcommerceApp</h3>
-                    <p>Html - JavaScript - CSS - React - Vite - Axios - Redux </p>
+                    <p>Html - JavaScript - CSS - React - Vite - Axios - Redux - Bootstrap</p>
                   </div>
                 </div>
               </Link>
-              <div className="project">
-                <img src={images.p4} alt="" />
-                <div className="overlay">
-                  <h3>Diseño Creativo</h3>
-                  <p>Fotografía</p>
-                </div>
-              </div>
               <div className="project">
                 <img src={images.p5} alt="" />
                 <div className="overlay">
